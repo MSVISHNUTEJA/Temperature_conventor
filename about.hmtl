@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PORTFOLIO</title>
+    <link rel="stylesheet" href="Port.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <ul>
+            <li><a class="active" href="#home">Home</a></li>
+            <li><a href="About.html">About</a></li>
+            <li><a href="Education.html" >Education</a></li>
+            <li><a href="Certification.html">Certifications</a></li>
+            <li><a href="Inter.html">Internships</a></li>
+            
+            </ul>
+        </nav>
+    </header>
+    <section1>
+       <div class="home-content">
+           <img src="photo.jpeg" class="image">
+           <h3 class="about">  
+               "Hii,  I'm M S Vishnu Teja. I'm Determinant and Enthusiastic Girl and I'm passionate to learn new things."
+               <p>"I'm pursing BTECH 4th year in the stream of Electronics and Communication Engineering from SPMVV, Tirupati."<br>
+              "My native palce is Yemmiganur, kurnool District, Andhra Pradesh"
+          </br>
+          <br> "We are a family of Six members. My Father is Rtd.Sub Inspector of police. My Mother is self employed. My Elder sister pursing Bed and My second sister completed her MBA and My brother studying 7 class."</br></p>
+          <ul>
+         My Skills are:
+            <li>   
+                "Programming Languages: C, Python, Java"</li>
+           <br>
+            <li>   
+               
+                "Database Knowledge: MySQl"</li><br>
+            <li>   
+                
+                "Web Technologies: HTML, CSS"</li><br>
+           </ul>
+</section1>
+           
+</body>
+</html>
+ 
